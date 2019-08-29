@@ -23,6 +23,10 @@ namespace EmptyRepos.Controllers
         {
             return View();
         }
+         public ActionResult OIndex()
+        {
+            return View();
+        }
 
 
     }
