@@ -23,7 +23,14 @@ namespace EmptyRepos.Controllers
         {
             return View();
         }
-
+        public ActionResult Show()
+        {
+            return View();
+        }
+        public ActionResult opIndex()
+        {
+            return View();
+        }
 
     }
 }
