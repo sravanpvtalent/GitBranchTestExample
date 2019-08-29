@@ -19,6 +19,10 @@ namespace EmptyRepos.Controllers
         {
             return View();
         }
+        public ActionResult KIndex()
+        {
+            return View();
+        }
 
 
     }
